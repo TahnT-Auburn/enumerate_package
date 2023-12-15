@@ -6,8 +6,6 @@ ROS2 package to enumerate a LUCID Vision camera(s).
 
 This package uses the Arena SDK to detect a device(s) and displays its information (e.g., vendor, model, serial, MAC, and IP)
 
-**For more information on this package, check the Joplin documentation under the _Enumerate Package_ page.**
-
 ## Requirements:
 
 * Ubuntu Focal Fossa
